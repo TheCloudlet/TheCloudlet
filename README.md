@@ -8,3 +8,5 @@ I love funtional programming  :heart:
 
 
 [![](https://raw.githubusercontent.com/ypprog/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/ypprog/github-profile-summary-cards)
+
+[![ypprog's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ypprog)](https://github.com/KnlnKS/leetcode-stats)
