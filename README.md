@@ -6,7 +6,7 @@ I love funtional programming  :heart:
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming.
 <br>If there is any chance to join the development of open source, plz contact me without hesitation.
 
-**General**<br>
+**Github stauts**<br>
 ![](https://raw.githubusercontent.com/ypprog/ypprog/master/profile-summary-card-output/github/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/ypprog/ypprog/master/profile-summary-card-output/github/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/ypprog/ypprog/master/profile-summary-card-output/github/3-stats.svg)
