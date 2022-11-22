@@ -7,6 +7,8 @@ I love funtional programming  :heart:
 <br>If there is any chance to join the development of open source, plz contact me without hesitation.
 
 
-[![](https://raw.githubusercontent.com/ypprog/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/ypprog/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/ypprog/ypprog/master/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ypprog/ypprog/master/profile-summary-card-output/github/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ypprog/ypprog/master/profile-summary-card-output/github/3-stats.svg)
 
 [![ypprog's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ypprog)](https://github.com/KnlnKS/leetcode-stats)
