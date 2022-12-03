@@ -10,4 +10,4 @@ I'm a compiler engineer. Currently working on RISC-V emualor project - rv32emu.<
 
 
 **Leetcode status**<br>
-[![ypprog's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ypprog)](https://github.com/KnlnKS/leetcode-stats)
+[![ypprog's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ypprog&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
