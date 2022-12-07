@@ -1,6 +1,6 @@
-# Hello there, I'm ypprog👋
+# Hello there, I'm ypaskell👋
 
- love funtional programming  :heart:<br>
+I love funtional programming  :heart:<br>
 I'm a compiler engineer. Currently working on RISC-V emualor project - rv32emu.<br>
 
 **Github stauts**<br>
