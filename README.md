@@ -1,7 +1,8 @@
 # Hello there, I'm ypaskell👋
 
 I love funtional programming  :heart:<br>
-I'm a compiler engineer. Currently working on RISC-V emualor project - rv32emu.<br>
+I'm a compiler engineer. 
+Currently working on RISC-V emualor project - rv32emu.<br>
 
 **Github stauts**<br>
 [![](https://raw.githubusercontent.com/ypaskell/ypaskell/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
