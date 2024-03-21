@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm ypaskell!
+# 👋 Hello there, I'm Yi-Ping!
 
 I'm passionate about functional programming and I enjoy diving deep into compiler engineering. Currently, I'm dedicated to building an exciting project: the RISC-V emulator called **rv32emu**.
 
