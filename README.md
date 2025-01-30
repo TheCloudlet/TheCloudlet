@@ -1,7 +1,8 @@
 # Yi-Ping Pan | Compiler & Embedded Systems Engineer
 
 👨‍💻 **Specializing in:**  
-- 🔹 High-performance **Compiler Optimization & Embedded Systems**  
+- 🔹 High-performance **Compiler Optimization & Embedded Systems**
+- 🔹 **VHDL Compilers**
 - 🔹 **Red-Black Tree & Data Structures** Performance Tuning  
 - 🔹 **RISC-V, JIT Compilation, & Emulator Development**  
 - 🔹 **C-based System & Rust Performance Engineering**  
