@@ -1,4 +1,4 @@
-# 🚀 Yi-Ping Pan | Compiler & Embedded Systems Engineer
+# Yi-Ping Pan | Compiler & Embedded Systems Engineer
 
 👨‍💻 **Specializing in:**  
 - 🔹 High-performance **Compiler Optimization & Embedded Systems**  
