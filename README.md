@@ -1,17 +1,29 @@
-# Yi-Ping Pan (Cloudlet)
+# Welcome to The Cloudlet
+*A quiet space for tools, thoughts, and timeless flows.*
 
-Compiler & Embedded Systems Engineer
+## About Me
 
-**Specializing in:**  
-- High-performance **Compiler Optimization & Embedded Systems**
-- **VHDL Compilers**
-- **Red-Black Tree & Data Structures** Performance Tuning  
-- **RISC-V, JIT Compilation, & Emulator Development**  
-- **C-based System & Rust Performance Engineering**  
+Hi, I'm **Cloudlet** — a calm builder, compiler whisperer, and systems thinker.  
+I like writing tools that reduce friction, code that breathes, and notes that last.
 
-**Notable Work:**  
-- **[rv32emu-rbtree-optimization](https://github.com/EagleTw/rv32emu-rbtree-optimization)** – Benchmarking & optimizing red-black tree maps in **rv32emu**
-- **[RGB-Matrix-Driver-NuMaker](https://github.com/EagleTw/RGB-Matrix-Driver-NuMaker)** – High-performance **RGB LED matrix driver**  
+## Ongoing Projects
 
-**Contact Me:**
-- yipingp@outlook.com
+| Project | Description |
+|--------|-------------|
+| `coogle` | A C++ source navigator using libclang — search your codebase by signature. |
+
+## Specializing in
+
+- Compiler and toolchain design (C++, VHDL, Verilog)
+- High peferformance optimization
+- Refactoring large regression flows with clarity
+- Building a calm developer workflow with Emacs, Org-mode, and maybe... VSCode
+
+## Connect
+
+I’m slowly building my digital garden —  
+but if you’d like to reach out, just leave a star, open an issue, or say hi.
+
+> _"Flow doesn't have to be fast. It just has to be true."_  
+> — *The Cloudlet*
+> 
