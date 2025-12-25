@@ -11,6 +11,7 @@ I like writing tools that reduce friction, code that breathes, and notes that la
 | Project | Description |
 |--------|-------------|
 | `coogle` | A C++ source navigator using libclang — search your codebase by signature. |
+| `stratum` | A compile-time, zero-overhead cache hierarchy simulator generator. |
 
 ## Specializing in
 
