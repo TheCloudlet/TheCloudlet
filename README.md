@@ -1,24 +1,22 @@
 # Welcome to The Cloudlet
-*A quiet space for tools, thoughts, and timeless flows.*
+
+_A quiet space for tools, thoughts, and timeless flows._
 
 ## About Me
 
 Hi, I'm **Cloudlet** — a calm builder, compiler whisperer, and systems thinker.  
 I like writing tools that reduce friction, code that breathes, and notes that last.
 
-## Ongoing Projects
+As a VHDL Compiler Engineer, I deal with the messy reality of industrial-grade C++. However, I look to LISP and Haskell for clarity and wisdom. My goal is to bring the safety and expressiveness of functional programming into the performance-critical world of systems programming.
 
-| Project | Description |
-|--------|-------------|
-| `coogle` | A C++ source navigator using libclang — search your codebase by signature. |
-| `stratum` | A compile-time, zero-overhead cache hierarchy simulator generator. |
+I document my journey and architectural decisions—including the mistakes and the "Why"—on my [Technical Blog](https://thecloudlet.github.io/).
 
-## Specializing in
+## Recent Projects
 
-- Compiler and toolchain design (C++, VHDL, Verilog)
-- High peferformance optimization
-- Refactoring large regression flows with clarity
-- Building a calm developer workflow with Emacs, Org-mode, and maybe... VSCode
+| Project   | Description                                                                |
+| --------- | -------------------------------------------------------------------------- |
+| `coogle`  | A C++ source navigator using libclang — search your codebase by signature. |
+| `stratum` | A compile-time, zero-overhead cache hierarchy simulator generator.         |
 
 ## Connect
 
@@ -26,5 +24,4 @@ I’m slowly building my digital garden —
 but if you’d like to reach out, just leave a star, open an issue, or say hi.
 
 > _"Flow doesn't have to be fast. It just has to be true."_  
-> — *The Cloudlet*
-> 
+> — _The Cloudlet_
