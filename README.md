@@ -4,24 +4,27 @@ _A quiet space for tools, thoughts, and timeless flows._
 
 ## About Me
 
-Hi, I'm **Cloudlet** — a calm builder, compiler whisperer, and systems thinker.  
-I like writing tools that reduce friction, code that breathes, and notes that last.
+Hi, I'm **Cloudlet** — a compiler engineer and systems thinker.
 
-As a VHDL Compiler Engineer, I deal with the messy reality of industrial-grade C++. However, I look to LISP and Haskell for clarity and wisdom. My goal is to bring the safety and expressiveness of functional programming into the performance-critical world of systems programming.
+I'm a Staff compiler engineer at Synopsys, working in industrial-grade C++. I look to LISP and Haskell for clarity, and I'm interested in bringing the safety and expressiveness of functional programming into performance-critical systems code. Lately I'm studying MLIR and NPU compilers.
 
-I document my journey and architectural decisions—including the mistakes and the "Why"—on my [Technical Blog](https://thecloudlet.github.io/).
+I document my architectural decisions — including the mistakes and the "why" — on my [Technical Blog](https://thecloudlet.github.io/).
 
-## Recent Projects
+## Projects
 
-| Project   | Description                                                                |
-| --------- | -------------------------------------------------------------------------- |
-| `coogle`  | A C++ source navigator using libclang — search your codebase by signature. |
-| `stratum` | A compile-time, zero-overhead cache hierarchy simulator generator.         |
+| Project | Description |
+| ------- | ----------- |
+| [`Timeball`](https://github.com/TheCloudlet/Timeball) | A C++20 timing engine you link into your own simulator: describe a chip as a graph of units, and it computes when each access completes, records every wait to SQLite, and shows it in Perfetto. |
+| [`Coogle`](https://github.com/TheCloudlet/Coogle) | A C/C++ function finder inspired by Hoogle, built on libclang — search your codebase by signature. |
+| [`Stratum`](https://github.com/TheCloudlet/Stratum) | _Superseded by Timeball._ An earlier compile-time cache hierarchy simulator (C++20 templates + Racket). |
+
+## Open Source
+
+- [`rv32emu`](https://github.com/sysprog21/rv32emu) — merged contributions to the RISC-V emulator.
 
 ## Connect
 
-I’m slowly building my digital garden —  
-but if you’d like to reach out, just leave a star, open an issue, or say hi.
+Leave a star, open an issue, or say hi.
 
-> _"Flow doesn't have to be fast. It just has to be true."_  
+> _"Flow doesn't have to be fast. It just has to be true."_
 > — _The Cloudlet_
