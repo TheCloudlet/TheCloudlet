@@ -6,7 +6,7 @@ _A quiet space for tools, thoughts, and timeless flows._
 
 Hi, I'm **Cloudlet** — a compiler engineer and systems thinker.
 
-I'm a Staff compiler engineer at Synopsys, working in industrial-grade C++. I look to LISP and Haskell for clarity, and I'm interested in bringing the safety and expressiveness of functional programming into performance-critical systems code. Lately I'm studying MLIR and NPU compilers.
+I'm a Staff NPU compiler engineer at Kneron, building MLIR-based backends for edge NPU accelerators. Before that I spent years on Synopsys's production VHDL compiler, in industrial-grade C++. I look to LISP and Haskell for clarity, and I'm interested in bringing the safety and expressiveness of functional programming into performance-critical systems code.
 
 I document my architectural decisions — including the mistakes and the "why" — on my [Technical Blog](https://thecloudlet.github.io/).
 
